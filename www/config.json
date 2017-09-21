@@ -11,6 +11,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
+	"presets": {"url": "http://ezelctronics.com"},
     "siteurl": "http://ezelctronics.com",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
